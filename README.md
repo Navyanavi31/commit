@@ -1,1 +1,1 @@
-# example of commit1
+# example of commit
